@@ -4,7 +4,7 @@ Population Source: Statistics Austria
 
 [Legal Notice from Source](https://www.statistik.at/en/about-us/responsibilities-and-principles/legal-basis/general-terms-and-conditions)
 
-[Processed JSON File]()
+[Processed JSON File](https://github.com/nyghts7/austria/blob/main/austria.txt)
 
 Coordinate Data is from [OpenStreetMap](https://www.openstreetmap.org/copyright) via [overpass-turbo.eu](https://github.com/tyrasd/overpass-turbo)
 
@@ -29,4 +29,4 @@ Stats:
  
 Image of Data:
 
-![Population distribution map of Austria]()
+![Population distribution map of Austria](https://github.com/nyghts7/austria/blob/main/austria.png)
