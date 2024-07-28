@@ -1,6 +1,6 @@
 Compiled by orasoupas
 
-Population Source: Statistics Austria
+Population Source: Statistics Austria (2022)
 
 [Legal Notice from Source](https://www.statistik.at/en/about-us/responsibilities-and-principles/legal-basis/general-terms-and-conditions)
 
